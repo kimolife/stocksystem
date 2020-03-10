@@ -34,7 +34,6 @@ Navigate to file [YourDirectory]/stocksystem/src/test/java/com/genoapay/stocksys
 Right click on the source and choose "Run As JUNIT"
 ```
 Run with Maven
-```
 
 ```
 Open a DOS command window
